@@ -48,6 +48,10 @@ def clean_data(data):
     return data
 
 
+def test():
+    print('this is a test')
+
+
 if __name__ == '__main__':
     # For introspections purpose to quickly get this functions on ipython
     import toolbox
